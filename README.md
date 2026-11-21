@@ -1,4 +1,4 @@
-# Used Smartphone Resell Price Estimator
+## Used Smartphone Resell Price Estimator
 
 End-to-end machine learning regression project and Streamlit web app for estimating secondary market resale values of used smartphones.
 
